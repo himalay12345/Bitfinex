@@ -1,0 +1,18 @@
+.skeleton {
+    background-repeat: no-repeat;
+    background-image: radial-gradient(circle 16px, white 99%, transparent 0),
+        linear-gradient(white 40px, transparent 0),
+        linear-gradient(gray 100%, transparent 0);
+}
+
+:root {
+    --green: #c8e6c9;
+    --red: #ffcdd2;
+}
+
+
+.col {
+    overflow: hidden;
+    width: 25%;
+    text-overflow: ellipsis;
+}
